@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.vocuno/vocuno",
+  "name": "com.vocuno/vocuno",
   "title": "Vocuno",
   "description": "AI music studio: song generation with vocals, covers, stems, voice conversion, mastering, editing.",
   "version": "1.0.0",
