@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vocuno": {
+      "type": "http",
+      "url": "https://vocuno.com/mcp"
+    }
+  }
+}
