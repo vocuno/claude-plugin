@@ -16,6 +16,9 @@ Everything runs in your Vocuno library: songs created through Claude appear at [
 
 ## Installation
 
+In Claude apps (web, desktop, mobile) and Cowork: open **Customize**, go to
+**Plugins**, then **Discover**, and search for Vocuno.
+
 In Claude Code:
 
 ```
@@ -39,6 +42,7 @@ On first use Claude opens a browser window to sign in to Vocuno (OAuth 2.1). App
 
 - Homepage: [vocuno.com](https://vocuno.com)
 - Contact: contact@vocuno.com
+- Privacy policy: [vocuno.com/privacy](https://vocuno.com/privacy)
 
 ## License
 
