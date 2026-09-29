@@ -1,7 +1,7 @@
 {
   "name": "vocuno",
   "displayName": "Vocuno",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI music toolkit for Claude: generate complete songs, separate stems, convert and clone voices, create covers and mashups, master tracks, and edit audio with your Vocuno account.",
   "author": {
     "name": "Vocuno",
@@ -11,6 +11,8 @@
   "homepage": "https://vocuno.com",
   "repository": "https://github.com/vocuno/claude-plugin",
   "license": "MIT",
+  "icon": "./icon.png",
+  "privacyPolicyUrl": "https://vocuno.com/privacy",
   "keywords": [
     "music",
     "audio",
